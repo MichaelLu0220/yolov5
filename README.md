@@ -21,7 +21,9 @@ Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> 
 
 Learn from the YOLOV5 model to train and identify polyps MODEL
 
-See the [YOLOv8 Docs](https://docs.ultralytics.com) to learn more and get started:
+See the [YOLOv8 Docs](https://docs.ultralytics.com) to learn more and get started
+
+Or directly refer to the provided [Colab](https://colab.research.google.com/drive/1b9Iem2EoKzS9pJABb_CSdJuhV0Q7ob4M?usp=sharing) for operation
 
 Before you start, download the relevant packages
 ```bash
@@ -42,7 +44,7 @@ This article will be demonstrated by Google Colab:
 <summary>Install</summary>
 
 ```bash
-!git clone https://github.com/MichaelLu0220/polyp_yolov5
+!git clone https://github.com/MichaelLu0220/yolov5
 %cd polyp_yolov5
 ```
 

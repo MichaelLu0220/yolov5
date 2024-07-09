@@ -21,7 +21,9 @@
 
 借鑑YOLOV5模型訓練辨識息肉之MODEL
 
-請參閱 [YOLOv8 Docs](https://docs.ultralytics.com) 以了解詳細資訊並開始使用:
+請參閱 [YOLOv8 Docs](https://docs.ultralytics.com) 以了解詳細資訊並開始使用
+
+或是直接參考提供的 [Colab](https://colab.research.google.com/drive/1b9Iem2EoKzS9pJABb_CSdJuhV0Q7ob4M?usp=sharing) 以進行操作
 
 開始前，下載相關套件
 ```bash
@@ -42,7 +44,7 @@
 <summary>下載</summary>
 
 ```bash
-!git clone https://github.com/MichaelLu0220/polyp_yolov5
+!git clone https://github.com/MichaelLu0220/yolov5
 %cd polyp_yolov5
 ```
 
