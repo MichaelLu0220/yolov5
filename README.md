@@ -30,12 +30,8 @@ Before you start, download the relevant packages
 !pip install ultralytics
 ```
 
-<div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png"></a>
-</div>
 
-## <div align="center">Install</div>
+## <div align="center">Start Here</div>
 
 Get complete documentation on training, testing and deployment here [YOLOv5 Docs](https://docs.ultralytics.com/yolov5). See the quickstart example below.
 This article will be demonstrated by Google Colab:

@@ -30,12 +30,8 @@
 !pip install ultralytics
 ```
 
-<div align="center">
-  <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png"></a>
-</div>
 
-## <div align="center">開始文件</div>
+## <div align="center">開始操作</div>
 
 從這 [YOLOv5 Docs](https://docs.ultralytics.com/yolov5) 裡有關培訓、測試和部署的完整文檔。請參閱下面的快速入門示例。
 本文將由Google Colab為示範:
