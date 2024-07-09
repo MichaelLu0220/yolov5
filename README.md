@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [繁體中文](README.zh-TW.md)
 <br>
 
 
@@ -22,13 +22,13 @@ To request an Enterprise License please complete the form at [Ultralytics Licens
 </div>
 <br>
 
-## <div align="center">轉自 **[[這個GITHUB](https://github.com/ultralytics/yolov5)]**</div>
+## <div align="center">Referenced and modified from this **[[GITHUB](https://github.com/ultralytics/yolov5)]**</div>
 
-借鑑YOLOV5模型訓練辨識息肉之MODEL
+Learn from the YOLOV5 model to train and identify polyps MODEL
 
-See the [YOLOv8 Docs](https://docs.ultralytics.com) for details and get started with:
+See the [YOLOv8 Docs](https://docs.ultralytics.com) to learn more and get started:
 
-開始前，下載相關套件
+Before you start, download the relevant packages
 ```bash
 !pip install ultralytics
 ```
@@ -38,10 +38,10 @@ See the [YOLOv8 Docs](https://docs.ultralytics.com) for details and get started 
   <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png"></a>
 </div>
 
-## <div align="center">開始文件</div>
+## <div align="center">Install</div>
 
-從這 [YOLOv5 Docs](https://docs.ultralytics.com/yolov5) 裡有關培訓、測試和部署的完整文檔。請參閱下面的快速入門示例。
-本文將由Google Colab為示範:
+Get complete documentation on training, testing and deployment here [YOLOv5 Docs](https://docs.ultralytics.com/yolov5). See the quickstart example below.
+This article will be demonstrated by Google Colab:
 
 <details open>
 <summary>Install</summary>
