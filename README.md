@@ -9,7 +9,7 @@ Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> 
   <a href="https://github.com/MichaelLu0220" style="text-decoration:none;">
     <img src="https://i.imgur.com/7FLt7C8.png" width="3%" alt="" /></a>
   
-  <a href="www.linkedin.com/in/michaellu-03868b318" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/michaellu-03868b318/" style="text-decoration:none;">
     <img src="https://i.imgur.com/qAFPI7r.png" width="3%" alt="" /></a>
   
 </div>
