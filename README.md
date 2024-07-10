@@ -3,6 +3,8 @@
 [English](README.md) | [繁體中文](README.zh-TW.md)
 <br>
 
+This research is about the method of **identifying the location of colorectal polyps**, and uses yolov5 as the model to implement the research. This document is ready to simply experiment with all the steps. Hope this can provide you with the relevant knowledge you want!
+
 Please browse the YOLOv5 <a href="https://docs.ultralytics.com/yolov5">Docs</a> for details, raise an issue on <a href="https://github.com/ultralytics/yolov5/issues/new/choose">GitHub</a> for support!
 
 <div align="center">

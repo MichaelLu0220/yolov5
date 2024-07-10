@@ -3,6 +3,8 @@
 [English](README.md) | [繁體中文](README.zh-TW.md)
 <br>
 
+這個研究有關於**_大腸息肉_**辨識位置之方法，並以yolov5為實現研究的模型，此文件已準備好能夠簡單實驗全部步驟，希望這裡能提你想要的相關知識!
+
 請瀏覽 YOLOv5 <a href="https://docs.ultralytics.com/yolov5">文檔</a>了解詳細信息，在 <a href="https://github.com/ultralytics/yolov5 上提出問題/issues/new/choose">GitHub</a> 尋求支持！
 
 <div align="center">
