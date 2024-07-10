@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/MichaelLu0220" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="4%" alt="" /></a>
+    <img src="https://drive.google.com/file/d/19jSVAlgOt6shZLhqeOwMzGSSa5VIYxX-/view?usp=drive_link" width="3%" alt="" /></a>
   
-  <a href="https://www.linkedin.com/company/ultralytics/" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="4%" alt="" /></a>
+  <a href="www.linkedin.com/in/michaellu-03868b318" style="text-decoration:none;">
+    <img src="https://drive.google.com/file/d/14uvWGSiO9SanBql2TqrvyinC_hv1ockJ/view?usp=drive_link" width="3%" alt="" /></a>
   
 </div>
 
